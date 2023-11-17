@@ -1,0 +1,18 @@
+.hello{
+    border-color: gray;
+    border-style: dotted;
+    color: black;
+}
+.ourLink {
+    margin: 15px auto 15px 15px;
+}
+#firLink{
+    color: green;
+}
+#secLink{
+    color: red;
+}
+#thiLink{
+    color: black;
+    text-decoration: none; 
+}

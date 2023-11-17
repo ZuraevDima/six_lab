@@ -1,0 +1,11 @@
+.hello{
+    border-color: gray;
+    border-style: dotted;
+    color: black;
+}
+.square {
+    width: 600px;
+    height: 200px;
+    border: 2px dotted blue;
+    margin: 15px auto 15px 15px;
+}

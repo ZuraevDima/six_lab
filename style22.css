@@ -1,0 +1,14 @@
+.hello{
+    border-color: gray;
+    border-style: dotted;
+    color: black;
+}
+#und{
+    text-decoration: underline;
+}
+#lThr{
+    text-decoration: line-through;
+}
+#over{
+    text-decoration: overline;
+}
